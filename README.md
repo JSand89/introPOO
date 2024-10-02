@@ -52,3 +52,28 @@ Crea una clase Motor y una clase Auto que incluya un Motor en su interior. El Au
 ### Instrucciones:
 
 + Usa composición en lugar de herencia.
+
+
+
+# Clase introducción a Decoradores
+
+
+### Instrucciones:
+
++ Crea un decorador llamado LogInstancia que imprima un mensaje cada vez que una nueva instancia de una clase es creada.
+
+### Instrucciones:
+
++ Crea un decorador de método llamado MedirTiempo que mida el tiempo que tarda en ejecutarse el método.
+
+### Instrucciones:
+
++ Crea un decorador que haga que cualquier clase decorada con él no pueda ser instanciada (es decir, deshabilita la creación de nuevas instancias).
+
+### Instrucciones:
+
++ Crea un decorador que agregue una propiedad estática a una clase.
+
+### Instrucciones:
+
++ Crea un decorador que asegure que una clase solo puede tener una única instancia (patrón Singleton).

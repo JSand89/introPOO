@@ -14,7 +14,7 @@ class Persona2 {
     }
   }
   
-  const persona2 = new Persona("Lucía", 25);
+  const persona2 = new Persona2("Lucía", 25);
   persona2.saludar();
   // persona2.nombre // Error: la propiedad 'nombre' es privada
   
